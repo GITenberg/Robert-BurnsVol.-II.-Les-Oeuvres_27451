@@ -1,0 +1,29 @@
+_repo: Robert-BurnsVol.-II.-Les-Oeuvres_27451
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Angellier, Auguste
+    birthdate: 1847
+    deathdate: 1911
+    gutenberg_agent_id: '31257'
+    url: http://www.gutenberg.org/2009/agents/31257
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27451'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Burns, Robert, 1759-1796'
+title: 'Robert Burns
+
+  Vol. II., Les Oeuvres'
+url: http://www.gutenberg.org/ebooks/27451
