@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31257'
     url: http://www.gutenberg.org/2009/agents/31257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27451#Robert-BurnsVol.-II.-Les-Oeuvres
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2008-12-08'
 gutenberg_type: Text
